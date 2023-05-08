@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.heading {
+  color: #fff;
+  font-size: 35px;
+  font-family: 'roboto';
+}
+
+@media screen and (min-width: 768px) {
+  .heading {
+    font-size: 40px;
+  }
+}
